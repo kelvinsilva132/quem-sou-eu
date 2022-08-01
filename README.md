@@ -46,12 +46,13 @@
 
 
 <a href="https://www.linkedin.com/in/francisco-kelvin-silva-66460a236/" target="_blank">
-  <img align="center" src="https://www.linkedin.com/in/francisco-kelvin-silva-66460a236/" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-kelvinsilva132-05122A?style=flat&logo=linkedin" alt = "linkedin"/>
+  </a>
+
+<a href = "https://www.instagram.com/kelven.silva.75436/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kelvinsilva132-05122A?style=flat&logo=instagram" alt = "instagram"/>
 </a>
 
-<a href="https://www.instagram.com/kelven.silva.75436/" target="_blank">
- <img align="center" src="https://www.instagram.com/kelven.silva.75436/" alt="instagram"/>
-</a>
 </p>
 
 <!--
